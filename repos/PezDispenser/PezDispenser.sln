@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PezDispenser", "PezDispenser\PezDispenser.csproj", "{1334C151-1090-40AB-AE01-BA6567F420EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1334C151-1090-40AB-AE01-BA6567F420EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1334C151-1090-40AB-AE01-BA6567F420EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1334C151-1090-40AB-AE01-BA6567F420EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1334C151-1090-40AB-AE01-BA6567F420EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C020C263-8696-4687-9339-7D4AC8CB5FCB}
+	EndGlobalSection
+EndGlobal

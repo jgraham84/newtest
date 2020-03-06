@@ -1,0 +1,18 @@
+﻿Time Elapsed: 00:00:00.0624461
+========== Finished ==========
+
+Time Elapsed: 00:00:00.0173989
+========== Finished ==========
+
+Time Elapsed: 00:00:00.0611875
+========== Finished ==========
+
+Time Elapsed: 00:00:00.0368554
+========== Finished ==========
+
+Time Elapsed: 00:00:00.1139756
+========== Finished ==========
+
+Time Elapsed: 00:00:00.0927872
+========== Finished ==========
+

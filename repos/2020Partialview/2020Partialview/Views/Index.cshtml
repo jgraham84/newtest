@@ -1,0 +1,14 @@
+﻿
+@model List<_2020Partialview.Models.Class1>
+           >
+@{
+    ViewBag.Title = "Places";
+}
+
+<h2>Places</h2>
+
+@foreach (var item in Model)
+{
+    @Html.Partial("Prototype", item)
+}
+
