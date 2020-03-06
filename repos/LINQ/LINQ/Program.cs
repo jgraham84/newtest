@@ -11,7 +11,7 @@ namespace LINQ
     //Select <col> From that <Table>
     class Program
     {
-        
+        //test
         
         
         static void Main(string[] args)
